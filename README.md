@@ -1,8 +1,13 @@
 # myblog
 
-Приложение, которое создавалось из пустой папочки)
+### Where to find:
+https://vakhromeevakate.github.io/myblog/
 
-Как запустить локально:
-yarn global add http-server
+### How to start
+`yarn`
+Then
+`yarn start`
 
-Где лежит:
+### How to publish
+`yarn build` creates some new files
+Then `git push` and wait - GitHub Pages should do everything
