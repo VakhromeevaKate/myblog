@@ -1,0 +1,25 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "Ekaterina A Vakhromeeva 's new blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VakhromeevaKate/myblog.git"
+  },
+  "keywords": [
+    "#blogger",
+    "#vakhromeevakate",
+    "#blog",
+    "#myblog"
+  ],
+  "author": "Ekaterina A Vakhromeeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VakhromeevaKate/myblog/issues"
+  },
+  "homepage": "https://github.com/VakhromeevaKate/myblog#readme"
+}

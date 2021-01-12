@@ -1,0 +1,33 @@
+.DS_Store
+node_modules
+/dist
+/public
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+__tests__/cypress/server/log/mock-server.log
+__tests__/screens/backstop_data/bitmaps_test/
+__tests__/screens/backstop_data/html_report/
+__tests__/screens/backstop_data/ci_report/
+__tests__/cypress/videos/
+
+# Editor directories and files
+.idea/*
+!.idea/runConfigurations
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Fake config to make Webstorm understand vue project’s path aliases
+# see https://medium.com/@markni/make-webstorm-understand-your-vue-cli-3-projects-path-aliases-88fc6732404d
+webpack.config.js
+package-lock.json
